@@ -16,6 +16,7 @@
     height:1000px
 }
 
+.my-contact-filler,
 .my-about-filler,
 .my-portfolio-filler{
     height: 200px;
@@ -41,6 +42,14 @@
     background-color: orange;
 }
 
-#my-about-section{
+#about-section{
     background-color: rgb(26, 188, 156);
+}
+
+#contact{
+    height:650px;
+}
+.my-contact-text-filler{
+    height: 40px;
+    background-color: brown;
 }
