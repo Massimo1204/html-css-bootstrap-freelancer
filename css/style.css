@@ -4,7 +4,7 @@
 }
 
 .my-jumbo-filler{
-    height: 500px;
+    height: 600px;
     background-color: red;
 }
 
@@ -16,6 +16,7 @@
     height:1000px
 }
 
+.my-about-filler,
 .my-portfolio-filler{
     height: 200px;
     background-color: pink;
@@ -24,4 +25,22 @@
 .my-portfolio-img-filler{
     height: 300px;
     background-color: rebeccapurple;
+}
+
+.my-about-filler-text{
+    height: 150px;
+    background-color: blue;
+}
+
+#about{
+    height: 500px;
+}
+
+.my-download-filler{
+    height: 50px;
+    background-color: orange;
+}
+
+#my-about-section{
+    background-color: rgb(26, 188, 156);
 }
