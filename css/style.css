@@ -1,55 +1,32 @@
-.my-header-filler{
-    height: 60px;
+nav{
+    height: 70px;
     background-color: rgb(44, 62, 80);
-}
-
-.my-jumbo-filler{
-    height: 600px;
-    background-color: red;
 }
 
 #jumbo{
     background-color: rgb(26, 188, 156);
 }
 
-#portfolio{
-    height:1000px
+#jumbo img{
+    width: 200px;
 }
 
-.my-contact-filler,
-.my-about-filler,
-.my-portfolio-filler{
-    height: 200px;
-    background-color: pink;
+.my-line{
+    width: 10%;
 }
 
-.my-portfolio-img-filler{
-    height: 300px;
-    background-color: rebeccapurple;
+.fa-star{
+    font-size: 1.5rem;
 }
 
-.my-about-filler-text{
-    height: 150px;
-    background-color: blue;
+#portfolio img{
+    border-radius: 15px;
 }
 
 #about{
-    height: 500px;
-}
-
-.my-download-filler{
-    height: 50px;
-    background-color: orange;
-}
-
-#about-section{
     background-color: rgb(26, 188, 156);
 }
 
 #contact{
     height:650px;
-}
-.my-contact-text-filler{
-    height: 40px;
-    background-color: brown;
 }
