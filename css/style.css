@@ -43,3 +43,15 @@ footer{
 .my-text-color{
     color: rgb(26, 188, 156);
 }
+
+#my-web-logo i{
+    font-size: 0.75rem;
+    width: 35px;
+    height: 35px;
+    padding: 10px;
+    margin: 0 0.1rem;
+}
+
+#my-aside p{
+    font-size: 0.65rem;
+}
