@@ -3,6 +3,7 @@ nav{
     background-color: rgb(44, 62, 80);
 }
 
+.my-send-btn,
 #jumbo{
     background-color: rgb(26, 188, 156);
 }
@@ -27,6 +28,18 @@ nav{
     background-color: rgb(26, 188, 156);
 }
 
-#contact{
-    height:650px;
+.my-pb{
+    padding-bottom: 120px;
+}
+
+footer{
+    background-color: rgb(58, 84, 109);
+}
+
+#my-aside{
+    background-color: rgb(44, 62, 80);
+}
+
+.my-text-color{
+    color: rgb(26, 188, 156);
 }
